@@ -421,8 +421,8 @@ endif
 set autoindent " Preserve current indent on new lines
 set cindent " set C style indent
 set expandtab " Convert all tabs typed to spaces
-set softtabstop=4 " Indentation levels every four columns
-set shiftwidth=4 " Indent/outdent by four columns
+set softtabstop=2 " Indentation levels every two columns
+set shiftwidth=2 " Indent/outdent by two columns
 set shiftround " Indent/outdent to nearest tabstop
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
